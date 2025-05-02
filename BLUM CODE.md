@@ -1,249 +1,95 @@
-# Blum Task Codes (ForestArmy)
+# BLUM Video Codes
+>Updated: 2 May 2025
 
-All task names with their corresponding copyable codes.
+**✨:**  
+Join our community: [Telegram - ForestArmy](https://t.me/ForestArmy)  
+Watch videos: [YouTube - ForestArmy](https://www.youtube.com/@ForestArmy)
 
 ---
 
-### Task: FOLLOWBLUM  
-Code: ```FOLLOWBLUM```
-
-### Task: TONTGEAI  
-Code: `TONTGEAI`
-
-### Task: TRADEWITHBLUM  
-Code: `TRADEWITHBLUM`
-
-### Task: Limit orders live  
-Code: `Limitorderslive`
-
-### Task: TGE THIS SPRING  
-Code: `TGETHISSPRING`
-
-### Task: TAP BLUM  
-Code: `TAPBLUM`
-
-### Task: GROW WITH BLUM  
-Code: `GROWWITHBLUM`
-
-### Task: BLUM GOES AI  
-Code: `BLUMGOESAI`
-
-### Task: DRC096  
-Code: `DRC096`
-
-### Task: AICOIN  
-Code: `AICOIN`
-
-### Task: BLUM CHATS  
-Code: `BLUMCHATS`
-
-### Task: PROSPERA  
-Code: `PROSPERA`
-
-### Task: Giveaway  
-Code: `Giveaway`
-
-### Task: BITGET  
-Code: `BITGET`
-
-### Task: TOP  
-Code: `TOP`
-
-### Task: QUANTUM BTC  
-Code: `QUANTUMBTC`
-
-### Task: BUILD  
-Code: `BUILD`
-
-### Task: CRYPTO 2025  
-Code: `CRYPTO2025`
-
-### Task: GOTAP  
-Code: `GOTAP`
-
-### Task: MEGA BLUM  
-Code: `MEGABLUM`
-
-### Task: BLUM WEEK  
-Code: `BLUMWEEK`
-
-### Task: BLUUUM  
-Code: `BLUUUM`
-
-### Task: BLUM GOALS  
-Code: `BLUMGOALS`
-
-### Task: LIFE IS BLUM  
-Code: `LIFEISBLUM`
-
-### Task: BIG PIZZA  
-Code: `BIGPIZZA`
-
-### Task: Trump  
-Code: `trump`
-
-### Task: BLUM SHINE  
-Code: `BLUMSHINE`
-
-### Task: GONNA BLUM  
-Code: `GONNABLUM`
-
-### Task: MARK  
-Code: `MARK`
-
-### Task: Kendrick  
-Code: `Kendrick`
-
-### Task: BLUMANCE  
-Code: `BLUMANCE`
-
-### Task: BITCOIN  
-Code: `BITCOIN`
-
-### Task: BLUM IS LIFE  
-Code: `BLUMISLIFE`
-
-### Task: BITCOIN JESUS  
-Code: `BITCOINJESUS`
-
-### Task: Ripple  
-Code: `Ripple`
-
-### Task: El Salvador  
-Code: `Elsalvador`
-
-### Task: LOVE BLUM  
-Code: `LOVEBLUM`
-
-### Task: MEMEPAD  
-Code: `MEMEPAD`
-
-### Task: LAMBO BLUM  
-Code: `LAMBOBLUM`
-
-### Task: Hundred  
-Code: `Hundred`
-
-### Task: BLUM SPARK  
-Code: `BLUMSPARK`
-
-### Task: BLUMIES  
-Code: `BLUMIES`
-
-### Task: BLUMMUNITY  
-Code: `BLUMMUNITY`
-
-### Task: BLUM TIPS  
-Code: `BLUMTIPS`
-
-### Task: BLUM RULES  
-Code: `BLUMRULES`
-
-### Task: GODEX  
-Code: `GODEX`
-
-### Task: BLUMSSS  
-Code: `BLUMSSS`
-
-### Task: BOOBLUM  
-Code: `BOOBLUM`
-
-### Task: SMART BLUM  
-Code: `SMARTBLUM`
-
-### Task: BLUM NOW  
-Code: `BLUMNOW`
-
-### Task: CRYPTO BUZZ  
-Code: `Cryptobuzz`
-
-### Task: CRYPTO GAS  
-Code: `CRYPTOGAS`
-
-### Task: DEXXX  
-Code: `DEXXX`
-
-### Task: BLUMIFY  
-Code: `BLUMIFY`
-
-### Task: CRYPTO ZONE  
-Code: `CRYPTOZONE`
-
-### Task: FOMOOO  
-Code: `FOMOOO`
-
-### Task: BLUM HELPS  
-Code: `BLUMHELPS`
-
-### Task: PUMP IT  
-Code: `PUMPIT`
-
-### Task: Blum Extra  
-Code: `Blumextra`
-
-### Task: BLUM STORM  
-Code: `BLUMSTORM`
-
-### Task: ULTRA BLUM  
-Code: `ULTRABLUM`
-
-### Task: BLUM FORCE  
-Code: `BLUMFORCE`
-
-### Task: BLUMTASTIC  
-Code: `BLUMTASTIC`
-
-### Task: CRYPTO FAN  
-Code: `CRYPTOFAN`
-
-### Task: BLUM EXPLORER  
-Code: `BLUMEXPLORER`
-
-### Task: SO BLUM  
-Code: `SOBLUM`
-
-### Task: ON FIRE  
-Code: `ONFIRE`
-
-### Task: Meme Blum  
-Code: `Memeblum`
-
-### Task: WOW BLUM  
-Code: `WOWBLUM`
-
-### Task: NO DOXXING  
-Code: `NODOXXING`
-
-### Task: HAPPY DOGS  
-Code: `HAPPYDOGS`
-
-### Task: Blumersss  
-Code: `Blumersss`
-
-### Task: CRYPTO SMART  
-Code: `CRYPTOSMART`
-
-### Task: SUPER BLUM  
-Code: `SUPERBLUM`
-
-### Task: CRYPTO BLUM  
-Code: `CRYPTOBLUM`
-
-### Task: HEY BLUM  
-Code: `HEYBLUM`
-
-### Task: BEST PROJECT EVER  
-Code: `BEST PROJECT EVER`
-
-### Task: GO GET  
-Code: `GO GET`
-
-### Task: VALUE  
-Code: `VALUE`
+### **Trade our token $FARMY to get FREE 3000 MP**  
+- [Trade Now](https://t.me/BlumCryptoTradingBot?start=EQANNCYAlEWpml5tcW5CTu2DL3IkzypQwZMPFscJ2ynseosT)  
+- [Open in Blum App](https://t.me/blum/app?startapp=memepadjetton_FARMY_xi4Uu-ref_yEj3KYQq4B)
 
 ---
 
-## Support Community
+## What are BLUM Daily Video Codes?
+Complete video-based tasks in the Blum app to earn BP Points.  
+Look under **Earn > New / Academy** to find tasks and use the codes below to claim rewards.
 
-Created by **ForestArmy**  
-[Telegram Channel](https://t.me/ForestArmy) | [YouTube Channel](https://youtube.com/@ForestArmy)
+---
+
+## **BLUM Codes - Itsmesatyavir**
+
+| Task Name | Code |
+|-----------|------|
+| Token Burning: How & Why? | `ONFIRE` |
+| Bitcoin Rainbow Chart? | `SOBLUM` |
+| Crypto Terms. Part 1 | `BLUMEXPLORER` |
+| How to trade Perps? | `CRYPTOFAN` |
+| Sharding Explained | `BLUMTASTIC` |
+| DeFi Explained | `BLUMFORCE` |
+| How To Find Altcoins? | `ULTRABLUM` |
+| What’s On-chain analysis? | `Blumextra` |
+| Pumptober Special | `PUMPIT` |
+| Defi Risks Key Insights | `BLUMHELPS` |
+| Crypto Slang. Part 2 | `FOMOOO` |
+| Choosing A Crypto Exchange | `CRYPTOZONE` |
+| Node Sales In Crypto | `BLUMIFY` |
+| What’s Crypto DEX? | `DEXXX` |
+| Understanding Gas Fees | `CRYPTOGAS` |
+| What is Slippage? | `CRYPTOBUZZ` |
+| What’s Next for Defi? | `BLUMNOW` |
+| Smart Contracts 101 | `SMARTBLUM` |
+| Crypto Slang. Part 3 | `BOOBLUM` |
+| Regulation: Yay Or Nay? | `BLUMSSS` |
+| DEX History | `GODEX` |
+| Crypto Regulations #2 | `BLUMRULES` |
+| P2P Trading Safety Tips | `BLUMTIPS` |
+| Crypto Communities | `BLUMMUNITY` |
+| Is Binance A Dex? | `BLUMIES` |
+| DEX Evolution | `BLUMSPARK` |
+| Dec 6 Crypto News | `HUNDRED` |
+| Crypto Slang. Part 4 | `LAMBOBLUM` |
+| Dec 10 News | `ELSALVADOR` *(May not work)* |
+| Memepad Tutorial | `MEMEPAD` |
+| DEX History #3 | `LOVEBLUM` |
+| Dec 12 News | `RIPPLE` *(Check again later if not working)* |
+| Launch a Memecoin | *(Use Start button in app)* |
+| Trade Any Memecoin | *(Trade then check after 24 hrs)* |
+| Dec 13 News | `BITCOINJESUS` |
+| Blum CMO @ Blockchain Life | `BLUMISLIFE` |
+| Dec 16 News | `BITCOIN` |
+| Crypto In Everyday Life | `BLUMANCE` |
+| Dec 17 News | `KENDRICK` |
+| Dec 18 News | `MARK` |
+| Crypto Slang. Part 5 | `GONNABLUM` |
+| What Is Uniswap? | `BLUMSHINE` |
+| History Of Bitcoin | `BIGPIZZA` |
+| Blum COO @ Blockchain Life | `LIFEISBLUM` |
+| Future Of Telegram. Part 1 | `TAPBLUM` |
+| Blum CEO @ Binance Blockchain | `BLUMGOALS` |
+| Check Out Blum Stickers | *(Start → Launch → Check back in 24 hrs)* |
+| Telegram Trends #2 | `BLUUUM` |
+| Blum at Binance Blockchain Week | `BLUMWEEK` |
+| Telegram Trends #3 | `MEGABLUM` |
+| Telegram Trends #4 | `GOTAP` |
+| Crypto Market 2025 | `CRYPTO2025` |
+| Community Building | `BUILD` |
+| Can Bitcoin be Hacked? | `QUANTUMBTC` |
+| Blum And TOP | `TOP` |
+| BITGET On TON With Vlad Smerkis | `BITGET` |
+| S1 Weekly Giveaway | `GIVEAWAY` |
+| Chartered Cities Explained | `PROSPERA` |
+| Season 1 First Giveaway | `BLUMCHATS` |
+| Fake AI vs Real AI | `AICOIN` |
+| How to Work at Blum | `Growwithblum` |
+| Blum’s TGE teaser | `TGETHISSPRING` |
+
+---
+
+**Stay Updated:** Bookmark this file and check daily!  
+**Follow ForestArmy for Daily BLUM Codes!**
+
+- Telegram: [t.me/ForestArmy](https://t.me/ForestArmy)  
+- YouTube: [youtube.com/@ForestArmy](https://www.youtube.com/@ForestArmy)
